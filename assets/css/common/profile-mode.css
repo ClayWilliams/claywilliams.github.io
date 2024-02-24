@@ -1,7 +1,7 @@
 .buttons,
 .main .profile {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 .main .profile {
     align-items: center;
@@ -13,18 +13,24 @@
 }
 
 .profile .profile_inner h1 {
-    padding: 12px 0;
-    font-size: 40px;
+    padding: 24px 0;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 .profile img {
-    display: inline-table;
     border-radius: 50%;
+    display: block;
+    margin-left: auto; /* Center the image horizontally */
+    margin-right: auto; /* Center the image horizontally */
 }
 
 .buttons {
     flex-wrap: wrap;
-    margin: 0 auto;
+    margin: 1 auto;
 }
 
 .button {

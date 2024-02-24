@@ -38,6 +38,9 @@
 .social-icons a svg {
     height: 26px;
     width: 26px;
+    display: inline-block;
+    margin-left: auto; /* Center the image horizontally */
+    margin-right: auto; /* Center the image horizontally */
 }
 
 .social-icons a:hover {
