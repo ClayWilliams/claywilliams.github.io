@@ -23,6 +23,7 @@
     flex-wrap: wrap;
     max-width: 400px;
     margin: 0 auto;
+    text-decoration: none;
 }
 
 .button {
@@ -31,10 +32,12 @@
     margin: 8px;
     padding: 6px;
     transition: transform 0.1s;
+    text-decoration: none;
 }
 
 .button-inner {
     padding: 0 8px;
+    text-decoration: none;
 }
 
 .button:active {

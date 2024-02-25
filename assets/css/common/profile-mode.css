@@ -28,6 +28,15 @@
     margin-right: auto; /* Center the image horizontally */
 }
 
+.profile .profile_inner span a {
+    text-decoration: bold;
+    font-weight: bold;
+}
+
+.profile .profile_inner span a:hover {
+    color: var(--midpurple)
+}
+
 .buttons {
     flex-wrap: wrap;
     margin: 1 auto;
