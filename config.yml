@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Jake Callahan
+title: Clayton Williams
 paginate: 20
 theme: PaperMod
 
@@ -22,7 +22,7 @@ menu:
           weight: 3 
 
 params:
-    description: "U Arizona PhD student"
+    description: "U Illinois Urbana-Champaign Ph.D. student"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -46,20 +46,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Jake Callahan
-          subtitle: "I am a 1st-year PhD student in the Program in Applied Mathematics at the University of Arizona. 
-                     Prior to enrolling at Arizona, I completed my Master's degree in Mathematics at Brigham Young University,
-          where I worked under [Dr. Jared Whitehead](https://tsunami.byu.edu/jared-p-whitehead) on the [TsunamiBayes project](https://tsunami.byu.edu/whitehead-lab).
-
-          <br><br>
-          I am interested in uncertainty quantification, with particular interest in Bayesian optimal experimental design, estimation of information, and MCMC techniques.
-          Applications of my work include geophysics (earthquakes, seismic sensor placement, tsunamis) and political science (detection of gerrymandering in state redistricting plans).
-          <br><br>
-          In my spare time I enjoy spending time in the mountains (backpacking when it's warm and skiing when it's cold), playing music, and spending time with my family." 
+          title: Clayton Williams
+          subtitle: "I'd like to improve my academic site so this is a test" 
           imageUrl: "headshot.jpg"
           imageWidth: 200
           imageHeight: 200
-          imageTitle: Jake Callahan
+          imageTitle: Clay Williams
           buttons:
             - name: Research
               url: papers/
@@ -68,24 +60,24 @@ params:
             - name: CV
               url: cv.pdf
             # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
+            #   url:
             # - name: Tags
             #   url: tags/
             # - name: Archive
             #   url: archive/
     socialIcons:
         - name: Email
-          url: mailto:jakecallahan@math.arizona.edu
+          url: mailto:cw78@illinois.edu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=aqzYn14AAAAJ
-        - name: GitHub
-          url: https://github.com/jcallahan4
+          url: https://sites.google.com/view/clayw/home
+#        - name: GitHub
+#          url: https://github.com/jcallahan4
         - name: LinkedIn
-          url: https://linkedin.com/in/jake-callahan
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://www.linkedin.com/in/clay-williams/
+#        - name: Location
+#          url: location/
+#        - name: Office Hours
+#          url: officehours/
 
 
     assets:
@@ -95,7 +87,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Jake Callahan"
+      text: "Clay Williams"
       icon: favicon.ico
       iconHeight: 18
 
