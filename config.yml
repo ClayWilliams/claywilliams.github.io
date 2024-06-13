@@ -22,8 +22,8 @@ menu:
           weight: 3 
 
 params:
-    description: "U Illinois Urbana-Champaign Ph.D. student"
-    author: Name
+    description: "University of Illinois Urbana-Champaign Mathematics Ph.D. student"
+    author: Clay
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark
@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Clayton Williams
-          subtitle: "I'd like to improve my academic site so this is a test" 
+          subtitle: "I'm a Ph.D. student in mathematics at the University of Illinois." 
           imageUrl: "headshot.jpg"
           imageWidth: 200
           imageHeight: 200
@@ -84,7 +84,7 @@ params:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
       text: "Clay Williams"
