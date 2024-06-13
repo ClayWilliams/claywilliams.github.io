@@ -9,8 +9,8 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: "[[https://doi.org/10.1080/2330443X.2022.2105770](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2403.04909&sa=D)](https://doi.org/10.48550/arXiv.2403.04909)"
-    Text: "Submitted"
+    URL: "https://arxiv.org/abs/2403.04909"
+    Text: "arXiv"
 
 ---
 
