@@ -3,58 +3,39 @@ title: "Hecke Relations for Eta Multipliers and Congruences of Crank and Rank Mo
 tags: ["modular-forms","partition-statistics","number-theory","congruences","hecke-operators","eta-multiplier"]
 author: "Clayton Williams"
 description: "Proving new identities for Eisenstein-Eta quotients implying l-adic congruences for partition statistics" 
-summary: "Submitted." 
+summary: "" 
 cover:
     image: ""
     alt: ""
     relative: false
 editPost:
-    URL: "[https://doi.org/10.1080/2330443X.2022.2105770](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2403.04909&sa=D)"
-    Text: "Statistics and Public Policy"
+    URL: "[[https://doi.org/10.1080/2330443X.2022.2105770](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2403.04909&sa=D)](https://doi.org/10.48550/arXiv.2403.04909)"
+    Text: "Submitted"
 
 ---
 
 ---
-
-##### Download
-
-+ [Paper](redistricting.pdf)
-+ [Data](https://github.com/tylerjarvis/UtahRedistricting)
-+ [Code](https://github.com/tylerjarvis/MathematicalElectionAnalysis)
 
 ---
 
 ##### Abstract
 
-We discuss difficulties of evaluating partisan gerrymandering in the congressional districts in Utah and the failure of many common metrics in Utah. We explain why the Republican vote share in the least-Republican district (LRVS) is a good indicator of the advantage or disadvantage each party has in the Utah congressional districts. Although the LRVS only makes sense in settings with at most one competitive district, in that setting it directly captures the extent to which a given redistricting plan gives advantage or disadvantage to the Republican and Democratic parties. We use the LRVS to evaluate the most common measures of partisan gerrymandering in the context of Utah’s 2011 congressional districts. We do this by generating large ensembles of alternative redistricting plans using Markov chain Monte Carlo methods. We also discuss the implications of this new metric and our results on the question of whether the 2011 Utah congressional plan was gerrymandered.
+We derive identities from Hecke operators acting on a family of Eisenstein-eta quotients, yielding congruences for their coefficients modulo powers of primes. As an application we derive systematic congruences for several higher-order smallest parts functions modulo prime powers, resolving a question of Garvan for these cases. We also relate moments of cranks and ranks to the partition function modulo prime powers. Some of our results strengthen and generalize those of a 2023 paper by Wang and Yang. 
 
----
-
-##### Figure 1:
-
-![](redistricting.jpeg)
-Two plots of the four Utah congressional districts, overlayed on representations of the political geography of the state. The typical plot (left panel) of Utah political geography, with each precinct colored by the percentage of Republican or Democratic voters, is misleading, because many of Utah’s precincts are very large and mostly uninhabited. The plot in the right panel is more accurate and informative; here the color indicates vote difference (number of Republican votes minus the number of Democratic votes) divided by the area of the precinct. This plot makes it easier to see how the partisan vote share is distributed across the state. The fact that most of the population resides in the narrow corridor of the Wasatch Front is also clearly visible.
-
----
+----
 
 ##### Citation
-
-Annika King, Jacob Murri, Jake Callahan, Adrienne Russell and Tyler J. Jarvis (2022) Mathematical Analysis of Redistricting in Utah, Statistics and Public Policy, 9:1, 136-148, DOI: 10.1080/2330443X.2022.2105770
+Williams, C. (2024). Hecke Relations for Eta Multipliers and Congruences of Higher-Order Smallest Parts Functions. arXiv preprint arXiv:2403.04909.
 
 ```BibTeX
-@article{doi:10.1080/2330443X.2022.2105770,
-	author = {Annika King, Jacob Murri, Jake Callahan, Adrienne Russell and Tyler J. Jarvis},
-	doi = {10.1080/2330443X.2022.2105770},
-	eprint = {https://doi.org/10.1080/2330443X.2022.2105770},
-	journal = {Statistics and Public Policy},
-	number = {1},
-	pages = {136-148},
-	publisher = {Taylor & Francis},
-	title = {Mathematical Analysis of Redistricting in Utah},
-	url = {https://doi.org/10.1080/2330443X.2022.2105770},
-	volume = {9},
-	year = {2022},
-	bdsk-url-1 = {https://doi.org/10.1080/2330443X.2022.2105770}}
+@misc{williams2024hecke,
+      title={Hecke Relations for Eta Multipliers and Congruences of Higher-Order Smallest Parts Functions}, 
+      author={Clayton Williams},
+      year={2024},
+      eprint={2403.04909},
+      archivePrefix={arXiv},
+      primaryClass={id='math.NT' full_name='Number Theory' is_active=True alt_name=None in_archive='math' is_general=False description='Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory'}
+}
 ```
 
 ---
