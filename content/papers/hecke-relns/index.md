@@ -4,7 +4,7 @@ date: 2024-03-07
 tags: ["modular forms","partition statistics","number theory","congruences","hecke operators","eta multiplier"]
 author: "Clayton Williams"
 description: "Proving new identities for Eisenstein-Eta quotients implying l-adic congruences for partition statistics" 
-summary: "We derive identities from Hecke operators acting on a family of Eisenstein-eta quotients, yielding prime-power congruences for coefficients of their coefficients and for various partition statistics." 
+summary: "We derive identities from Hecke operators acting on a family of Eisenstein-eta quotients, yielding prime-power congruences for coefficients of their coefficients and for various partition statistics. This resolves a question posed by Garvan for higher-order smallest parts functions." 
 cover:
     image: ""
     alt: ""
