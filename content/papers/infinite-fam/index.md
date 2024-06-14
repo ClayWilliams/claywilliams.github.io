@@ -4,7 +4,7 @@ date: 2023-06-20
 tags: ["modular forms","mock theta functions", "number theory","weil representation", "maass forms"]
 author: "Nick Andersen, Clayton Williams"
 description: "An infinite family of vector-valued mock theta function transforming according to the Weil representation" 
-summary: "" 
+summary: "We exhibit an infinite family of vector-valued mock theta functions indexed by positive integers coprime to 6, improving results from Bringmann and Ono as well as Garvan." 
 cover:
     image: ""
     alt: ""
