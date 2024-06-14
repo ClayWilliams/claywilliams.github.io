@@ -1,7 +1,7 @@
 ---
 title: "An Infinite Family of Vector-Valued Mock Theta Functions." 
 tags: ["modular forms","mock theta functions", "number theory","weil representation", "maass forms"]
-author: "[Nick Andersen](https://www.google.com/url?q=https%3A%2F%2Fmath.byu.edu%2F~nick%2F&sa=D), Clayton Williams"
+author: "Nick Andersen, Clayton Williams"
 description: "An infinite family of vector-valued mock theta function transforming according to the Weil representation" 
 summary: "" 
 cover:
@@ -13,8 +13,10 @@ editPost:
     Text: "The Ramanujan Journal"
 
 ---
+Coauthored with
 
----
+[Nick Andersen](https://www.google.com/url?q=https%3A%2F%2Fmath.byu.edu%2F~nick%2F&sa=D)
+
 
 ---
 
