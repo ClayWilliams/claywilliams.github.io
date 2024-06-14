@@ -1,6 +1,6 @@
 ---
 title: "Hecke Relations for Eta Multipliers and Congruences of Crank and Rank Moments."
-date: 2024
+date: 2024-03-07
 tags: ["modular forms","partition statistics","number theory","congruences","hecke operators","eta multiplier"]
 author: "Clayton Williams"
 description: "Proving new identities for Eisenstein-Eta quotients implying l-adic congruences for partition statistics" 
