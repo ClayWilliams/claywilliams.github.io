@@ -20,7 +20,7 @@ editPost:
 
 ##### Abstract
 
-We exhibit an infinite family of vector-valued mock theta functions indexed by positive integers coprime to 6. These are built from specializations of Dyson’s rank generating function and related functions studied by Watson, Gordon, and McIntosh. The associated completed harmonic Maass forms transform according to the Weil representation attached to a rank one lattice. This strengthens a 2010 result of Bringmann and Ono and a 2019 result of Garvan. See also the [preprint](https://arxiv.org/abs/2212.08574). Work greatly improves the results from my [MS thesis](claywilliams.github.io/static/msthesis.pdf).
+We exhibit an infinite family of vector-valued mock theta functions indexed by positive integers coprime to 6. These are built from specializations of Dyson’s rank generating function and related functions studied by Watson, Gordon, and McIntosh. The associated completed harmonic Maass forms transform according to the Weil representation attached to a rank one lattice. This strengthens a 2010 result of Bringmann and Ono and a 2019 result of Garvan. See also the [preprint](https://arxiv.org/abs/2212.08574). Work greatly improves the results from my [MS thesis](https://claywilliams.github.io/static/msthesis.pdf).
 
 ----
 
