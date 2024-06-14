@@ -1,18 +1,28 @@
 ---
-title: "Math 112"
-author: "Jake Callahan"
-description: "Topics include properties of functions and graphs, linear and quadratic equations, polynomial functions, exponential and logarithmic functions with applications." 
-summary: "Topics include properties of functions and graphs, linear and quadratic equations, polynomial functions, exponential and logarithmic functions with applications." 
+title: "University of Illinois at Urbana-Champaign"
+author: ""
+description: "" 
+summary: "" 
 cover:
-    image: "math112.png"
-    alt: "course header"
+    image: ""
+    alt: ""
     relative: false
 showToc: false
 disableAnchoredHeadings: false
 
 ---
+I have been asked to write a letter of recommendation for a student every semester I've been at UIUC. 
 
-Topics include properties of functions and graphs, linear and quadratic equations, polynomial functions, exponential and logarithmic functions with applications.
+Research mentorship
+*IGL Project Mentor *Modular Curves* Summer 2023
+
+Regular teaching duties
+*Teaching Assistant Calculus II (231) Spring 2024
+*Head Teaching Assistant Calculus I (221) Fall 2023
+*Teaching Assistant Calculus III (241) Spring 2023
+*Teaching Assistant Calculus I (221) Fall 2022
+
+
 
 ---
 
