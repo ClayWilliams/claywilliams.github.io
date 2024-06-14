@@ -13,9 +13,7 @@ editPost:
     Text: "The Ramanujan Journal"
 
 ---
-Coauthored with
-
-[Nick Andersen](https://www.google.com/url?q=https%3A%2F%2Fmath.byu.edu%2F~nick%2F&sa=D)
+Coauthored with [Nick Andersen](https://www.google.com/url?q=https%3A%2F%2Fmath.byu.edu%2F~nick%2F&sa=D)
 
 
 ---
